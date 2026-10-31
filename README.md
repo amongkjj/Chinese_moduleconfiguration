@@ -1,5 +1,5 @@
 Chinese_moduleconfiguration
-这是一个专门为模组配置制作的中文翻译包，翻译了部分比较实用的模组配置，使用了LC Chinese Project代替了原版汉化
+这是一个专门为模组配置制作的中文翻译包，翻译了部分比较实用的模组配置，并使用了LC Chinese Project代替了原版汉化
 
 前置要求
 1. GameTranslator (CoolLKK_Group)
@@ -8,12 +8,12 @@ Chinese_moduleconfiguration
 
 原因
 1. 该包用的是GameTranslator进行配置翻译的所以要使用GameTranslator
-2. 该包没有内置游戏原版翻译因为有更好的LC Chinese Project这个汉化模组，所以绑定安装LC Chinese Project
+2. 该包没有内置游戏原版翻译因为有更好的LC Chinese Project这个汉化模组，所以一起绑定安装LC Chinese Project
 
 模组配置翻译预览
-!(https://github.com/amongkjj/Chinese_moduleconfiguration/blob/main/images/89a63b58acc0b7c21691603d0a3ab5a2.png)
-!(https://github.com/amongkjj/Chinese_moduleconfiguration/blob/main/images/ed5b91df6866ce77cfefdcd156c14b84.png)
-!(https://github.com/amongkjj/Chinese_moduleconfiguration/blob/main/images/54ececeb41e599ed92a7fec8e9ae9c66.png)
+![模组配置翻译预览](https://github.com/amongkjj/Chinese_moduleconfiguration/blob/main/images/89a63b58acc0b7c21691603d0a3ab5a2.png)
+![模组配置翻译预览图2](https://github.com/amongkjj/Chinese_moduleconfiguration/blob/main/images/ed5b91df6866ce77cfefdcd156c14b84.png)
+![模组配置翻译预览图3](https://github.com/amongkjj/Chinese_moduleconfiguration/blob/main/images/54ececeb41e599ed92a7fec8e9ae9c66.png)
 
 安装方式
 使用 r2modman 安装，管理器会自动下载全部前置依赖
