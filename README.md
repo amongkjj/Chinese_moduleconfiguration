@@ -10,8 +10,10 @@
 1. 该包用的是GameTranslator进行配置翻译的所以要使用GameTranslator
 2. 该包没有内置游戏原版翻译因为有更好的LC Chinese Project这个汉化模组，所以绑定安装LC Chinese Project
 
-![模组配置翻译预览](https://raw.githubusercontent.com/amongkjj/Chinese_moduleconfiguration/main/images/3c68b9081d359c36e42c70d26d80f24a.png)
-![第二张预览图](https://raw.githubusercontent.com/amongkjj/Chinese_moduleconfiguration/main/images/54ececeb41e599ecd92a7fec8e9ae9c66.png)
+## 模组配置翻译预览
+!(https://raw.githubusercontent.com/amongkjj/Chinese_moduleconfiguration/main/images/3c68b9081d359c36e42c70d26d80f24a.png)
+
+!(https://raw.githubusercontent.com/amongkjj/Chinese_moduleconfiguration/main/images/54ececeb41e599ecd92a7fec8e9ae9c66.png)
 
 ## 安装方式
 使用 r2modman 安装，管理器会自动下载全部前置依赖
